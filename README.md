@@ -1,2 +1,0 @@
-# Sandbox-Airdrop
-Sandbox AirDrop
