@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16">
-  <g id="Access_icon" transform="translate(-375 -12)">
-    <circle cx="8" cy="8" data-name="Elipse 367" fill="#e8ca26" id="Elipse_367" r="8" transform="translate(375 12)"/>
-    <g data-name="Grupo 36328" id="Grupo_36328" transform="translate(378 15)">
-      <path d="M9.061.975a3.206,3.206,0,0,0-5.2,3.553L.167,8.22A.222.222,0,0,0,.1,8.361L0,9.8a.222.222,0,0,0,.222.238H.238l1.438-.1a.222.222,0,0,0,.141-.065l.436-.437a.222.222,0,0,0,.063-.125l.13-.878.876-.13a.222.222,0,0,0,.187-.187l.13-.876.878-.13a.223.223,0,0,0,.125-.063l.866-.866A3.206,3.206,0,0,0,9.061.975Zm-.853,1.94a.768.768,0,1,1,0-1.086A.768.768,0,0,1,8.208,2.915Z" data-name="Trazado 41435" fill="#1b2026" id="Trazado_41435" transform="translate(0 -0.038)"/>
-    </g>
-  </g>
-</svg>
